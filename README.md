@@ -1,4 +1,4 @@
-## 𝗪𝗵𝗼 𝗔𝗺 𝗜
+## ⚡𝗪𝗵𝗼 𝗔𝗺 𝗜
 
 Hi, I'm Prem 👨‍💻  
 Full Stack Developer building scalable web apps & clean UI 🚀  

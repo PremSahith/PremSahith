@@ -10,16 +10,15 @@ Full Stack Developer building scalable web apps & clean UI 🚀
 
 ---
 
-## 🛠️ Skills & Tools
+### 💻 Languages & Tech
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-grey?logo=express)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)

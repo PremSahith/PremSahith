@@ -3,9 +3,9 @@
 Hi, I'm Prem 👨‍💻  
 Full Stack Developer building scalable web apps & clean UI 🚀  
 
-- 🔭 Working on: Web & Computer Vision
+- 🔭 Working on: Web 
 - 🌱 Learning: Advanced React & System Design  
-- 💡 Interests: AI • CV • Design  
+- 💡 Interests: AI • Design  
 - 📫 Reach me: premsahithjangam@gmail.com  
 
 ---

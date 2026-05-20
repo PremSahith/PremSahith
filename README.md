@@ -41,6 +41,7 @@ Full Stack Developer building scalable web apps & clean UI 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![DB Designing](https://img.shields.io/badge/DB%20Designing-4479A1?logo=databricks&logoColor=white)
 
 ---
 

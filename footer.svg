@@ -1,0 +1,14 @@
+<svg width="100%" viewBox="0 0 680 60" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Footer banner</title>
+<defs>
+  <linearGradient id="footerFade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0d0d18" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#1a0800" stop-opacity="0.8"/>
+  </linearGradient>
+</defs>
+<rect width="680" height="60" fill="url(#footerFade)"/>
+<ellipse cx="340" cy="60" rx="280" ry="40" fill="#8b2200" opacity="0.2"/>
+<ellipse cx="340" cy="60" rx="150" ry="25" fill="#c03800" opacity="0.15"/>
+<path d="M0,55 Q85,38 170,48 Q255,35 340,42 Q425,35 510,48 Q595,38 680,55 L680,60 L0,60 Z" fill="#a83000" opacity="0.35"/>
+<text x="340" y="32" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="2" fill="#b08060" opacity="0.7">building in the dark · shipping in the light</text>
+</svg>

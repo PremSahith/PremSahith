@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Prem%20Sahith&fontSize=48&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer%20%E2%80%A2%20IIIT%20Sri%20City&descSize=15&descAlignY=82" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <br/>
 
 [![Email](https://img.shields.io/badge/-premsahith123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:premsahith123@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-sahith-j)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
@@ -14,12 +16,12 @@
 
 ```ts
 const prem = {
-  at        : "Indian Institute of Information Technology, Sri City",
-  building  : "scalable web apps & clean UI",
-  exploring : "SAR — Synthetic Aperture Radar",
-  learning  : ["Advanced React", "System Design"],
-  into      : ["AI", "Design", "Competitive Programming"],
-  contact   : "premsahith123@gmail.com",
+  at: "Indian Institute of Information Technology, Sri City",
+  building: "scalable web apps & clean UI",
+  exploring: "SAR — Synthetic Aperture Radar",
+  learning: ["Advanced React", "System Design"],
+  into: ["AI", "Design", "Competitive Programming"],
+  contact: "premsahith123@gmail.com",
 };
 ```
 
@@ -84,6 +86,7 @@ const prem = {
 A production-ready luxury travel booking platform with AI-powered destination search, a Razorpay checkout supporting full payment or a **25% deposit**, Axis Miles loyalty discounts, and a fully hand-crafted glassmorphic UI — no component libraries.
 
 **Highlights**
+
 - Groq (Llama-3.3-70b) destination matching from natural language
 - Streaming budget planner with real-time itinerary generation
 - HMAC-verified Razorpay webhooks with idempotency constraints
@@ -101,6 +104,7 @@ A production-ready luxury travel booking platform with AI-powered destination se
 A premium real-time multiplayer franchise auction platform that replicates the full IPL auction experience — from the waiting room to the final gavel. UI adapts to each franchise's colors live.
 
 **Highlights**
+
 - WebSocket bidding with sub-millisecond sync via Socket.IO
 - Seeded PRNG for room-specific, reproducible player shuffling
 - Debounced DB writes to handle high-frequency bid events
@@ -116,12 +120,16 @@ A premium real-time multiplayer franchise auction platform that replicates the f
 
 ---
 
-### 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
 Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — focused on building strong algorithmic foundations.
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<img src="footer.svg" width="100%"/>
+
+</div>

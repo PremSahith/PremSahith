@@ -15,14 +15,12 @@
 </div>
 
 ```ts
-const prem = {
-  at: "Indian Institute of Information Technology, Sri City",
-  building: "scalable web apps & clean UI",
-  exploring: "SAR — Synthetic Aperture Radar",
-  learning: ["Advanced React", "System Design"],
-  into: ["AI", "Design", "Competitive Programming"],
-  contact: "premsahith123@gmail.com",
-};
+introduce(prem)
+// 🏛️ CS student @ IIIT Sri City
+// 🛠️ ships full-stack apps with Next.js, Postgres, and real-time infra
+// 🧠 150+ LeetCode problems in 2 months
+// 📡 currently researching Synthetic Aperture Radar
+// ✉️  premsahith123@gmail.com
 ```
 
 ---

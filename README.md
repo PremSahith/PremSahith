@@ -1,7 +1,9 @@
 <div align="center">
 
 <img src="banner.svg" width="100%"/>
+# Hey there 👋 I'm Prem Sahith
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF&center=false&vCenter=true&width=600&lines=Shipping+full-stack+apps+with+Next.js;Exploring+SAR+%26+Open+Source;150%2B+LeetCode+problems+in+2+months)](https://git.io/typing-svg)
 <br/>
 
 [![Email](https://img.shields.io/badge/-premsahith123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:premsahith123@gmail.com)
@@ -15,12 +17,10 @@
 </div>
 
 ```ts
-introduce(prem)
-// 🏛️ CS student @ IIIT Sri City
-// 🛠️ ships full-stack apps with Next.js, Postgres, and real-time infra
-// 🧠 150+ LeetCode problems in 2 months
-// 📡 currently exploring Synthetic Aperture Radar & Open Source
-// ✉️  premsahith123@gmail.com
+- 🔭 Currently building: IPL Auction Simulator, Axis Travel
+- 🌱 Currently learning: System Design, Synthetic Aperture Radar, Advanced React
+- 💬 Ask me about: Next.js, PostgreSQL, Socket.IO, DSA
+- ♟️ Fun fact: FIDE-rated chess player & cricket history nerd
 ```
 
 ---

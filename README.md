@@ -143,7 +143,7 @@ Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — 
 ---
 
 <div align="center">
-## 📊 GitHub Stats
+
 
 
 

@@ -147,12 +147,11 @@ Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — 
 
 
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-tau-brown-46.vercel.app/api?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PremSahith&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Top Languages](https://github-readme-stats-tau-brown-46.vercel.app/api/top-langs/?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <img src="footer.svg" width="100%"/>

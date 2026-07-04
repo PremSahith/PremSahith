@@ -17,10 +17,12 @@
 </div>
 
 ```ts
-- 🔭 Currently building: IPL Auction Simulator, Axis Travel
-- 🌱 Currently learning: System Design, Synthetic Aperture Radar, Advanced React
-- 💬 Ask me about: Next.js, PostgreSQL, Socket.IO, DSA
-- ♟️ Fun fact: FIDE-rated chess player & cricket history nerd
+🦇 SIGNAL RECEIVED — GOTHAM DEV DIVISION
+─────────────────────────────────────────
+MISSION ACTIVE : IPL Auction Simulator, Axis Travel
+INTEL GATHERING: System Design, SAR, Advanced React
+COMMS OPEN FOR : Next.js, PostgreSQL, Socket.IO, DSA
+CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ```
 
 ---

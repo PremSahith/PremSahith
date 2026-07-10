@@ -3,7 +3,7 @@
 <img src="banner.svg" width="100%"/>
 # Hey there 👋 I'm Prem Sahith
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF,FFD700,00F7FF&center=false&vCenter=true&width=600&lines=Shipping+full-stack+apps+with+Next.js;Exploring+SAR+%26+Open+Source;150%2B+LeetCode+problems+in+2+months)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF,FFD700,00F7FF&center=false&vCenter=true&width=750&lines=Shipping+full-stack+apps+with+Next.js+%26+TypeScript;GSSoC'26+%E2%80%94+Top+300+of+50%2C000%2B+%E2%80%A2+Champion+League;Building+IPL+Auction+Simulator+%26+Axis+Travel;150%2B+LeetCode+problems+in+2+months;FIDE-rated+chess+player+%7C+capital+markets+%26+wealth+building)](https://git.io/typing-svg)
 <br/>
 
 [![Email](https://img.shields.io/badge/-premsahith123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:premsahith123@gmail.com)
@@ -23,7 +23,7 @@ MISSION ACTIVE : IPL Auction Simulator, Axis Travel
 INTEL GATHERING: System Design, SAR, Advanced React
 COMMS OPEN FOR : Next.js, PostgreSQL, Socket.IO, DSA
 RANK CLASSIFIED: ★ GSSoC'26 — TOP 300 / 50,000+ ★ CHAMPION LEAGUE ★
-CLASSIFIED     : FIDE-rated chess player, cricket history nerd
+CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 ```
 
 ---
@@ -33,7 +33,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 <tr>
 <td align="center" width="33%">
 
-[![Languages](https://img.shields.io/badge/LANGUAGES-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00C2CC)](#)
+[![Languages](https://img.shields.io/badge/LANGUAGES-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=00F7FF)](#)
 <br/><br/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -46,7 +46,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 </td>
 <td align="center" width="33%">
 
-[![Frontend](https://img.shields.io/badge/FRONTEND-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00C2CC)](#)
+[![Frontend](https://img.shields.io/badge/FRONTEND-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=3B9DFF)](#)
 <br/><br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -58,7 +58,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 </td>
 <td align="center" width="33%">
 
-[![Backend](https://img.shields.io/badge/BACKEND-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00C2CC)](#)
+[![Backend](https://img.shields.io/badge/BACKEND-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=14B8A6)](#)
 <br/><br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -71,7 +71,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 <tr>
 <td align="center" width="33%">
 
-[![Databases](https://img.shields.io/badge/DATABASES_%26_ORM-1a1a2e?style=flat-square&labelColor=1a1a2e&color=FFD700)](#)
+[![Databases](https://img.shields.io/badge/DATABASES_%26_ORM-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=9F5AFA)](#)
 <br/><br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -82,7 +82,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 </td>
 <td align="center" width="33%">
 
-[![Cloud & DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-1a1a2e?style=flat-square&labelColor=1a1a2e&color=FFD700)](#)
+[![Cloud & DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=FFD700)](#)
 <br/><br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -95,7 +95,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 </td>
 <td align="center" width="33%">
 
-[![Auth, Tools & Design](https://img.shields.io/badge/AUTH,_TOOLS_%26_DESIGN-1a1a2e?style=flat-square&labelColor=1a1a2e&color=FFD700)](#)
+[![Auth, Tools & Design](https://img.shields.io/badge/AUTH,_TOOLS_%26_DESIGN-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=FF7F50)](#)
 <br/><br/>
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
@@ -124,7 +124,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 
 </div>
 
-A production-ready luxury travel booking platform with AI-powered destination search, a Razorpay checkout supporting full payment or a **25% deposit**, Axis Miles loyalty discounts, and a fully hand-crafted glassmorphic UI — no component libraries.
+A production-ready luxury travel booking platform with AI-powered destination search, a Razorpay checkout supporting full or **25% deposit** payment, and a fully hand-crafted glassmorphic UI — no component libraries.
 
 **✦ Highlights**
 
@@ -153,7 +153,7 @@ A production-ready luxury travel booking platform with AI-powered destination se
 
 </div>
 
-A premium real-time multiplayer franchise auction platform that replicates the full IPL auction experience — from the waiting room to the final gavel. UI adapts to each franchise's colors live.
+A premium real-time multiplayer franchise auction platform that replicates the full IPL auction experience — from the waiting room to the final gavel, with the UI adapting live to each franchise's own colors and branding.
 
 **✦ Highlights**
 

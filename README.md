@@ -27,7 +27,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ```
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:0F3460,100:00F7FF&height=70&section=header&text=STACK&fontSize=32&fontColor=E8FFFD&fontAlignY=62&animation=fadeIn" width="100%"/>
+[![STACK](https://img.shields.io/badge/💻_STACK-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=00C2CC)](#)
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:1B1B3A,100:FFD700&height=70&section=header&text=PROJECTS&fontSize=32&fontColor=FFF6D6&fontAlignY=62&animation=fadeIn" width="100%"/>
+[![PROJECTS](https://img.shields.io/badge/🚀_PROJECTS-1B1B3A?style=for-the-badge&labelColor=1B1B3A&color=FFD700)](#)
 
 <table>
 <tr>
@@ -144,7 +144,7 @@ A premium real-time multiplayer franchise auction platform that replicates the f
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:2C1010,100:FF7F00&height=70&section=header&text=COMPETITIVE%20PROGRAMMING%20%26%20OPEN%20SOURCE&fontSize=22&fontColor=FFEAD6&fontAlignY=62&animation=fadeIn" width="100%"/>
+[![COMPETITIVE PROGRAMMING & OPEN SOURCE](https://img.shields.io/badge/🏆_COMPETITIVE_PROGRAMMING_%26_OPEN_SOURCE-2C1010?style=for-the-badge&labelColor=2C1010&color=FF7F00)](#)
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![GSSoC](https://img.shields.io/badge/🏆%20GSSoC'26-TOP%20300%20%2F%2050%2C000%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white)

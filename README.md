@@ -29,12 +29,12 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ---
 [![STACK](https://img.shields.io/badge/💻_STACK-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=00C2CC)](#)
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-**Languages**
-
+[![Languages](https://img.shields.io/badge/LANGUAGES-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00C2CC)](#)
+<br/><br/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -44,10 +44,10 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-**Frontend**
-
+[![Frontend](https://img.shields.io/badge/FRONTEND-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00C2CC)](#)
+<br/><br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -56,15 +56,23 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-**Backend & Data**
-
+[![Backend](https://img.shields.io/badge/BACKEND-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00C2CC)](#)
+<br/><br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+[![Databases](https://img.shields.io/badge/DATABASES_%26_ORM-1a1a2e?style=flat-square&labelColor=1a1a2e&color=FFD700)](#)
+<br/><br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -72,10 +80,10 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" width="33%">
 
-**DevOps, Auth & Tools**
-
+[![Cloud & DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-1a1a2e?style=flat-square&labelColor=1a1a2e&color=FFD700)](#)
+<br/><br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
@@ -83,6 +91,12 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+[![Auth, Tools & Design](https://img.shields.io/badge/AUTH,_TOOLS_%26_DESIGN-1a1a2e?style=flat-square&labelColor=1a1a2e&color=FFD700)](#)
+<br/><br/>
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -101,43 +115,65 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 
 [![PROJECTS](https://img.shields.io/badge/🚀_PROJECTS-1B1B3A?style=for-the-badge&labelColor=1B1B3A&color=FFD700)](#)
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
 ### ✈️ Axis Travel
 
+</div>
+
 A production-ready luxury travel booking platform with AI-powered destination search, a Razorpay checkout supporting full payment or a **25% deposit**, Axis Miles loyalty discounts, and a fully hand-crafted glassmorphic UI — no component libraries.
 
-**Highlights**
+**✦ Highlights**
 
 - Groq (Llama-3.3-70b) destination matching from natural language
 - Streaming budget planner with real-time itinerary generation
 - HMAC-verified Razorpay webhooks with idempotency constraints
 - ISR at the edge with 3600s revalidation
 
-`Next.js` `MongoDB` `Groq AI` `Razorpay` `NextAuth` `Upstash Redis`
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
+![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://axis-orcin.vercel.app/)
 
+</div>
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
 ### 🏏 IPL Auction Simulator
 
+</div>
+
 A premium real-time multiplayer franchise auction platform that replicates the full IPL auction experience — from the waiting room to the final gavel. UI adapts to each franchise's colors live.
 
-**Highlights**
+**✦ Highlights**
 
 - WebSocket bidding with sub-millisecond sync via Socket.IO
 - Seeded PRNG for room-specific, reproducible player shuffling
 - Debounced DB writes to handle high-frequency bid events
 - Trade desk with real-time accept/reject flow between franchises
 
-`Next.js` `Socket.IO` `PostgreSQL` `Prisma` `Framer Motion` `TypeScript`
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://ipl-auction-lw63.onrender.com/)
 
+</div>
 </td>
 </tr>
 </table>
@@ -156,12 +192,7 @@ Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-tau-brown-46.vercel.app/api?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PremSahith&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats-tau-brown-46.vercel.app/api/top-langs/?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<img src="https://streak-stats.demolab.com/?user=PremSahith&theme=dark&hide_border=false&card_width=800" width="90%"/>
 
 <img src="footer.svg" width="100%"/>
 

@@ -3,14 +3,14 @@
 <img src="banner.svg" width="100%"/>
 # Hey there 👋 I'm Prem Sahith
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF&center=false&vCenter=true&width=600&lines=Shipping+full-stack+apps+with+Next.js;Exploring+SAR+%26+Open+Source;150%2B+LeetCode+problems+in+2+months)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF,FFD700,00F7FF&center=false&vCenter=true&width=600&lines=Shipping+full-stack+apps+with+Next.js;Exploring+SAR+%26+Open+Source;150%2B+LeetCode+problems+in+2+months)](https://git.io/typing-svg)
 <br/>
 
 [![Email](https://img.shields.io/badge/-premsahith123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:premsahith123@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-sahith-j)
-&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+[![GSSoC](https://img.shields.io/badge/🏆%20GSSoC'26-TOP%20300%20%2F%2050%2C000%2B%20%E2%80%A2%20CHAMPION%20LEAGUE-FF7F00?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
 
 <br/>
 
@@ -22,11 +22,12 @@
 MISSION ACTIVE : IPL Auction Simulator, Axis Travel
 INTEL GATHERING: System Design, SAR, Advanced React
 COMMS OPEN FOR : Next.js, PostgreSQL, Socket.IO, DSA
+RANK CLASSIFIED: ★ GSSoC'26 — TOP 300 / 50,000+ ★ CHAMPION LEAGUE ★
 CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ```
 
 ---
-## 💻 Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:0F3460,100:00F7FF&height=70&section=header&text=STACK&fontSize=32&fontColor=E8FFFD&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -39,14 +40,8 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
@@ -60,8 +55,16 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Databases & ORM**
+</td>
+<td valign="top" width="25%">
 
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -71,19 +74,24 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 </td>
 <td valign="top" width="25%">
 
-**DevOps & Cloud**
+**DevOps, Auth & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-
-**Auth & Tooling**
-
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
@@ -91,7 +99,7 @@ CLASSIFIED     : FIDE-rated chess player, cricket history nerd
 
 ---
 
-## 🚀 Projects
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:1B1B3A,100:FFD700&height=70&section=header&text=PROJECTS&fontSize=32&fontColor=FFF6D6&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -136,18 +144,17 @@ A premium real-time multiplayer franchise auction platform that replicates the f
 
 ---
 
-## 🏆 Competitive Programming
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,50:2C1010,100:FF7F00&height=70&section=header&text=COMPETITIVE%20PROGRAMMING%20%26%20OPEN%20SOURCE&fontSize=22&fontColor=FFEAD6&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![GSSoC](https://img.shields.io/badge/🏆%20GSSoC'26-TOP%20300%20%2F%2050%2C000%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white)
+![GSSoC League](https://img.shields.io/badge/LEAGUE-CHAMPION-9F2B68?style=for-the-badge&logo=trophy&logoColor=white)
 
-Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — focused on building strong algorithmic foundations.
+Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — focused on building strong algorithmic foundations. Ranked in the **top 300 among 50,000+ participants** in GSSoC 2026, competing in the **Champion League**.
 
 ---
 
 <div align="center">
-
-
-
 
 ![GitHub Stats](https://github-readme-stats-tau-brown-46.vercel.app/api?username=PremSahith&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 

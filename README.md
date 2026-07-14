@@ -91,6 +91,8 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 ![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![zrok](https://img.shields.io/badge/zrok-0B0F1A?style=flat-square&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E2E?style=flat-square&logo=ngrok&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -106,6 +108,7 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
+![Retune](https://img.shields.io/badge/Retune-6C4CE0?style=flat-square&logoColor=white)
 
 </td>
 </tr>

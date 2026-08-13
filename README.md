@@ -209,7 +209,7 @@ Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PremSahith&theme=dark&hide_border=false&card_width=800" width="90%"/>
+<!-- <img src="https://streak-stats.demolab.com/?user=PremSahith&theme=dark&hide_border=false&card_width=800" width="90%"/> -->
 
 <img src="footer.svg" width="100%"/>
 

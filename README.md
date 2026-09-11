@@ -1,39 +1,56 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
-# Hey there 👋 I'm Prem Sahith
+<h1>Hi, I'm Prem.</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF,FFD700,00F7FF&center=false&vCenter=true&width=750&lines=Shipping+full-stack+apps+with+Next.js+%26+TypeScript;GSSoC'26+%E2%80%94+Top+300+of+50%2C000%2B+%E2%80%A2+Champion+League;Building+IPL+Auction+Simulator+%26+Axis+Travel;150%2B+LeetCode+problems+in+2+months;FIDE-rated+chess+player+%7C+capital+markets+%26+wealth+building)](https://git.io/typing-svg)
-<br/>
-
-[![Email](https://img.shields.io/badge/-premsahith123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:premsahith123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-sahith-j)
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
-
-[![GSSoC](https://img.shields.io/badge/🏆%20GSSoC'26-TOP%20300%20%2F%2050%2C000%2B%20%E2%80%A2%20CHAMPION%20LEAGUE-FF7F00?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF,FFD700,00F7FF&center=true&vCenter=true&width=750&lines=Shipping+full-stack+apps+with+Next.js+%26+TypeScript;GSSoC'26+%E2%80%94+Top+300+of+50%2C000%2B+%E2%80%A2+Champion+League;Building+IPL+Auction+Simulator+%26+Axis+Travel;200%2B+LeetCode+problems+solved;Tinkering+with+smart+contracts+%26+writing+toy+lexers;FIDE-rated+chess+player+%7C+capital+markets+%26+wealth+building)](https://git.io/typing-svg)
 
 <br/>
+
+<a href="mailto:premsahith123@gmail.com"><img src="https://img.shields.io/badge/Email-premsahith123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/prem-sahith-j"><img src="https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B%20%E2%80%A2%20Champion%20League-FF7F00?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 </div>
- 
-```ts
-🦇 SIGNAL RECEIVED — GOTHAM DEV DIVISION
-─────────────────────────────────────────
-MISSION ACTIVE : IPL Auction Simulator, Axis Travel
-INTEL GATHERING: System Design, SAR, Advanced React
-COMMS OPEN FOR : Next.js, PostgreSQL, Socket.IO, DSA
-RANK CLASSIFIED: ★ GSSoC'26 — TOP 300 / 50,000+ ★ CHAMPION LEAGUE ★
-CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
+
+<br/>
+
+```
+prem@dev ~ % whoami --verbose
+
+  ██████╗ ██████╗ ███████╗███╗   ███╗        ██╗
+  ██╔══██╗██╔══██╗██╔════╝████╗ ████║        ██║
+  ██████╔╝██████╔╝█████╗  ██╔████╔██║        ██║
+  ██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╔╝██║        ╚═╝
+  ██║     ██║  ██║███████╗██║ ╚═╝ ██║        ██╗
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝        ╚═╝
+
+  ────────────────────────────────────────────────
+  role         Full-Stack Developer
+  focus        System Design · DSA · Advanced React · 3D & Motion
+  currently    poking at EVM internals, hand-rolling a toy lexer/parser
+  building     IPL Auction Simulator, Axis Travel
+  rank         GSSoC'26 — Top 300 / 50,000+ · Champion League
+  dsa          200+ problems solved
+  off-clock    FIDE-rated chess · capital markets & wealth building · Blender 3D
+  ────────────────────────────────────────────────
+
+prem@dev ~ % _
 ```
 
----
-[![STACK](https://img.shields.io/badge/💻_STACK-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=00C2CC)](#)
+<br/>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
 
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
 
-[![Languages](https://img.shields.io/badge/LANGUAGES-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=00F7FF)](#)
+![Languages](https://img.shields.io/badge/LANGUAGES-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=00C2CC)
 <br/><br/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -41,12 +58,11 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-[![Frontend](https://img.shields.io/badge/FRONTEND-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=3B9DFF)](#)
+![Frontend](https://img.shields.io/badge/FRONTEND-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=3B9DFF)
 <br/><br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -58,7 +74,7 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 </td>
 <td align="center" width="33%">
 
-[![Backend](https://img.shields.io/badge/BACKEND-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=14B8A6)](#)
+![Backend](https://img.shields.io/badge/BACKEND-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=14B8A6)
 <br/><br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -71,7 +87,7 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 <tr>
 <td align="center" width="33%">
 
-[![Databases](https://img.shields.io/badge/DATABASES_%26_ORM-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=9F5AFA)](#)
+![Databases](https://img.shields.io/badge/DATABASES_%26_ORM-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=9F5AFA)
 <br/><br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -82,31 +98,39 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 </td>
 <td align="center" width="33%">
 
-[![Cloud & DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=FFD700)](#)
+![Cloud & DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=FFD700)
 <br/><br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+![Auth & Payments](https://img.shields.io/badge/AUTH_%26_PAYMENTS-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=FF7F50)
+<br/><br/>
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 
-[![Auth & Security](https://img.shields.io/badge/AUTH_%26_SECURITY-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=FF7F50)](#)
+![Blockchain & Compilers](https://img.shields.io/badge/BLOCKCHAIN_%26_COMPILERS-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=00F7FF)
 <br/><br/>
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![Flex/Bison](https://img.shields.io/badge/Flex%2FBison-4B4B4B?style=flat-square&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-[![Dev Tools & Workflow](https://img.shields.io/badge/DEV_TOOLS_%26_WORKFLOW-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=00C2CC)](#)
+![Dev Tools & Workflow](https://img.shields.io/badge/DEV_TOOLS_%26_WORKFLOW-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=00C2CC)
 <br/><br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -118,99 +142,106 @@ CLASSIFIED     : FIDE-rated chess player, capital markets & wealth building
 </td>
 <td align="center" width="33%">
 
-[![Design](https://img.shields.io/badge/DESIGN-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=9F5AFA)](#)
+![Design & 3D](https://img.shields.io/badge/DESIGN_%26_3D-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=9F5AFA)
 <br/><br/>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+![Problem Solving](https://img.shields.io/badge/PROBLEM_SOLVING-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=FFD700)
+<br/><br/>
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Chess](https://img.shields.io/badge/Chess-FIDE%20Rated-769656?style=flat-square&logo=chess.com&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-[![PROJECTS](https://img.shields.io/badge/🚀_PROJECTS-1B1B3A?style=for-the-badge&labelColor=1B1B3A&color=FFD700)](#)
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<div align="center">
 
 ### ✈️ Axis Travel
 
-</div>
-
 A production-ready luxury travel booking platform with AI-powered destination search, a Razorpay checkout supporting full or **25% deposit** payment, and a fully hand-crafted glassmorphic UI — no component libraries.
 
-**✦ Highlights**
-
+**Highlights**
 - Groq (Llama-3.3-70b) destination matching from natural language
 - Streaming budget planner with real-time itinerary generation
 - HMAC-verified Razorpay webhooks with idempotency constraints
 - ISR at the edge with 3600s revalidation
 
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
-![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Upstash%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://axis-orcin.vercel.app/)
 
-</div>
 </td>
 <td width="50%" valign="top">
-<div align="center">
 
 ### 🏏 IPL Auction Simulator
 
-</div>
-
 A premium real-time multiplayer franchise auction platform that replicates the full IPL auction experience — from the waiting room to the final gavel, with the UI adapting live to each franchise's own colors and branding.
 
-**✦ Highlights**
-
+**Highlights**
 - WebSocket bidding with sub-millisecond sync via Socket.IO
 - Seeded PRNG for room-specific, reproducible player shuffling
 - Debounced DB writes to handle high-frequency bid events
 - Trade desk with real-time accept/reject flow between franchises
 
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://ipl-auction-lw63.onrender.com/)
 
-</div>
 </td>
 </tr>
 </table>
 
----
-
-[![COMPETITIVE PROGRAMMING & OPEN SOURCE](https://img.shields.io/badge/🏆_COMPETITIVE_PROGRAMMING_%26_OPEN_SOURCE-2C1010?style=for-the-badge&labelColor=2C1010&color=FF7F00)](#)
-
-![LeetCode](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20in%202%20Months-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![GSSoC](https://img.shields.io/badge/🏆%20GSSoC'26-TOP%20300%20%2F%2050%2C000%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white)
-![GSSoC League](https://img.shields.io/badge/LEAGUE-CHAMPION-9F2B68?style=for-the-badge&logo=trophy&logoColor=white)
-
-Solved 150+ problems across arrays, graphs, DP, and trees in under 2 months — focused on building strong algorithmic foundations. Ranked in the **top 300 among 50,000+ participants** in GSSoC 2026, competing in the **Champion League**.
-
----
+<br/>
 
 <div align="center">
 
-<!-- <img src="https://streak-stats.demolab.com/?user=PremSahith&theme=dark&hide_border=false&card_width=800" width="90%"/> -->
+## 🏆 Competitive Programming & Open Source
 
-<img src="footer.svg" width="100%"/>
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/League-CHAMPION-9F5AFA?style=for-the-badge&logo=trophy&logoColor=white"/>
+
+Solved 200+ DSA problems across arrays, graphs, DP, and trees — building strong algorithmic foundations. Ranked in the **top 300 among 50,000+ participants** in GSSoC 2026, competing in the **Champion League**.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐ Thanks for stopping by — always open to interesting builds and a good game of chess.
 
 </div>

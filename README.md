@@ -2,13 +2,13 @@
 
 <h1>Hi, I'm Prem.</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF,FFD700,00F7FF&center=true&vCenter=true&width=750&lines=Shipping+full-stack+apps+with+Next.js+%26+TypeScript;GSSoC'26+%E2%80%94+Top+300+of+50%2C000%2B+%E2%80%A2+Champion+League;Building+IPL+Auction+Simulator+%26+Axis+Travel;200%2B+LeetCode+problems+solved;Tinkering+with+smart+contracts+%26+writing+toy+lexers;FIDE-rated+chess+player+%7C+capital+markets+%26+wealth+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF,FFD700,00F7FF&center=true&vCenter=true&width=750&lines=Shipping+full-stack+apps+with+Next.js+%26+TypeScript;GSSoC'26+%E2%80%94+Top+300+of+50%2C000%2B+%E2%80%A2+Champion+League;Building+IPL+Auction+Simulator+%26+Axis+Travel;250%2B+LeetCode+problems+solved;Tinkering+with+smart+contracts+%26+writing+toy+lexers;FIDE-rated+chess+player+%7C+capital+markets+%26+wealth+building)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="mailto:premsahith123@gmail.com"><img src="https://img.shields.io/badge/Email-premsahith123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/prem-sahith-j"><img src="https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B%20%E2%80%A2%20Champion%20League-FF7F00?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 </div>
@@ -27,12 +27,13 @@ prem@dev ~ % whoami --verbose
 
   ────────────────────────────────────────────────
   role         Full-Stack Developer
+  stack        React + Redux · TypeScript · Node + NestJS · PostgreSQL + MongoDB
   focus        System Design · DSA · Advanced React · 3D & Motion
   currently    poking at EVM internals, hand-rolling a toy lexer/parser
   building     IPL Auction Simulator, Axis Travel
   rank         GSSoC'26 — Top 300 / 50,000+ · Champion League
-  dsa          200+ problems solved
-  off-clock    FIDE-rated chess · capital markets & wealth building · Blender 3D
+  dsa          250+ problems solved
+  off-clock    FIDE-rated chess · capital markets & wealth building · Blender 3D · Unity
   ────────────────────────────────────────────────
 
 prem@dev ~ % _
@@ -66,6 +67,7 @@ prem@dev ~ % _
 <br/><br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -78,6 +80,7 @@ prem@dev ~ % _
 <br/><br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white)
@@ -148,6 +151,7 @@ prem@dev ~ % _
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 </td>
 </tr>
@@ -156,7 +160,7 @@ prem@dev ~ % _
 
 ![Problem Solving](https://img.shields.io/badge/PROBLEM_SOLVING-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=FFD700)
 <br/><br/>
-![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![Chess](https://img.shields.io/badge/Chess-FIDE%20Rated-769656?style=flat-square&logo=chess.com&logoColor=white)
 
 </td>
@@ -230,11 +234,11 @@ A premium real-time multiplayer franchise auction platform that replicates the f
 
 ## 🏆 Competitive Programming & Open Source
 
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/League-CHAMPION-9F5AFA?style=for-the-badge&logo=trophy&logoColor=white"/>
 
-Solved 200+ DSA problems across arrays, graphs, DP, and trees — building strong algorithmic foundations. Ranked in the **top 300 among 50,000+ participants** in GSSoC 2026, competing in the **Champion League**.
+Solved 250+ DSA problems across arrays, graphs, DP, and trees — building strong algorithmic foundations. Ranked in the **top 300 among 50,000+ participants** in GSSoC 2026, competing in the **Champion League**.
 
 </div>
 

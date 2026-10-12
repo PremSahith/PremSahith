@@ -8,7 +8,7 @@
 
 <a href="mailto:premsahith123@gmail.com"><img src="https://img.shields.io/badge/Email-premsahith123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/prem-sahith-j"><img src="https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/jps2716/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B%20%E2%80%A2%20Champion%20League-FF7F00?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 </div>
@@ -160,7 +160,7 @@ prem@dev ~ % _
 
 ![Problem Solving](https://img.shields.io/badge/PROBLEM_SOLVING-0D1B2A?style=for-the-badge&labelColor=0D1B2A&color=FFD700)
 <br/><br/>
-![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+<a href="https://leetcode.com/u/jps2716/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 ![Chess](https://img.shields.io/badge/Chess-FIDE%20Rated-769656?style=flat-square&logo=chess.com&logoColor=white)
 
 </td>
@@ -234,7 +234,7 @@ A premium real-time multiplayer franchise auction platform that replicates the f
 
 ## 🏆 Competitive Programming & Open Source
 
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/jps2716/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/League-CHAMPION-9F5AFA?style=for-the-badge&logo=trophy&logoColor=white"/>
 

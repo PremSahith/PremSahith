@@ -9,7 +9,7 @@
 <a href="mailto:premsahith123@gmail.com"><img src="https://img.shields.io/badge/Email-premsahith123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/prem-sahith-j"><img src="https://img.shields.io/badge/LinkedIn-prem--sahith--j-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/jps2716/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B%20%E2%80%A2%20Champion%20League-FF7F00?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://gssoc.girlscript.org/profile/00bcdf9e-cd87-4516-8572-5dfd618ac784"><img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B%20%E2%80%A2%20Champion%20League-FF7F00?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 </div>
 
@@ -235,8 +235,8 @@ A premium real-time multiplayer franchise auction platform that replicates the f
 ## 🏆 Competitive Programming & Open Source
 
 <a href="https://leetcode.com/u/jps2716/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/League-CHAMPION-9F5AFA?style=for-the-badge&logo=trophy&logoColor=white"/>
+<a href="https://gssoc.girlscript.org/profile/00bcdf9e-cd87-4516-8572-5dfd618ac784"><img src="https://img.shields.io/badge/GSSoC'26-Top%20300%20%2F%2050K%2B-FF7F00?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://gssoc.girlscript.org/profile/00bcdf9e-cd87-4516-8572-5dfd618ac784"><img src="https://img.shields.io/badge/League-CHAMPION-9F5AFA?style=for-the-badge&logo=trophy&logoColor=white"/></a>
 
 Solved 250+ DSA problems across arrays, graphs, DP, and trees — building strong algorithmic foundations. Ranked in the **top 300 among 50,000+ participants** in GSSoC 2026, competing in the **Champion League**.
 

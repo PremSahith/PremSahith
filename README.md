@@ -243,7 +243,21 @@ Solved 250+ DSA problems across arrays, graphs, DP, and trees — building stron
 </div>
 
 <br/>
+<div align="center">
 
+## 🐉 My Coding Dragon
+
+<sub>Evolves from my real GitHub activity — commits, merged PRs & streaks.</sub>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/PremSahith/dragon.gif" width="650" alt="My Evolving Dragon">
+  <br>
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/gh-pages/users/PremSahith/dragon-status.svg" width="650" alt="Drago Status Card">
+</p>
+
+</div>
+
+<br/>
 <div align="center">
 
 ⭐ Thanks for stopping by — always open to interesting builds and a good game of chess.

@@ -1,7 +1,4 @@
 <div align="center">
-
-## 🐉 My Coding Dragon
-
 <sub>Evolves from my real GitHub activity — commits, merged PRs & streaks.</sub>
 
 <p align="center">

@@ -1,4 +1,5 @@
 <div align="center">
+
 ## 🐉 My Coding Dragon
 
 <sub>Evolves from my real GitHub activity — commits, merged PRs & streaks.</sub>
@@ -10,6 +11,11 @@
 </p>
 
 </div>
+
+<br/>
+
+<div align="center">
+
 <h1>Hi, I'm Prem.</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF,FFD700,00F7FF&center=true&vCenter=true&width=750&lines=Shipping+full-stack+apps+with+Next.js+%26+TypeScript;GSSoC'26+%E2%80%94+Top+300+of+50%2C000%2B+%E2%80%A2+Champion+League;Building+IPL+Auction+Simulator+%26+Axis+Travel;250%2B+LeetCode+problems+solved;Tinkering+with+smart+contracts+%26+writing+toy+lexers;FIDE-rated+chess+player+%7C+capital+markets+%26+wealth+building)](https://git.io/typing-svg)
@@ -253,11 +259,7 @@ Solved 250+ DSA problems across arrays, graphs, DP, and trees — building stron
 </div>
 
 <br/>
-<div align="center">
 
-
-
-<br/>
 <div align="center">
 
 ⭐ Thanks for stopping by — always open to interesting builds and a good game of chess.
